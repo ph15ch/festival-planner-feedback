@@ -1,6 +1,6 @@
-# Festival Planner — Feedback & Support
+# Packshare — Feedback & Support
 
-This is the place to **report bugs** and **get help** with [Festival Planner](https://packshare.de).
+This is the place to **report bugs** and **get help** with [Packshare](https://packshare.de).
 
 ---
 
@@ -37,4 +37,4 @@ For more open-ended questions, general feedback, or to chat with other users, he
 
 ---
 
-*Festival Planner is built and maintained by a solo developer. Response times may vary, but every report is read. Thank you for helping make the app better.*
+*Packshare is built and maintained by a solo developer. Response times may vary, but every report is read. Thank you for helping make the app better.*
